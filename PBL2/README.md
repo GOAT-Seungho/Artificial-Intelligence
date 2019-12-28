@@ -1,0 +1,1 @@
+Command : $python3 team4.py newtrain-images-idx3-ubyte newtrain-labels-idx1-ubyte testall-images-idx3-ubyte
